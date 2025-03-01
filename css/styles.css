@@ -669,7 +669,6 @@ img {
 }
 .modal-form-input-cont {
   position: relative;
-  margin-bottom: 16px;
 }
 .modal-form-input {
   border: 1px solid rgba(46, 47, 66, 0.4);
@@ -740,8 +739,8 @@ img {
 .custom-icon {
   fill: #fff;
 }
-.modal-form-cont-checkbox {
-  margin-top: 16px;
+.modal-form{
+  margin-bottom: 16px;
 }
 .modal-send-btn {
   display: flex;
