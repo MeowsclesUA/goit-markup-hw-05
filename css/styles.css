@@ -639,7 +639,10 @@ img {
   border: none;
   fill: #ffffff;
 }
-
+.close-btn-icon:hover,
+.close-btn-icon:focus{
+  fill: #ffffff;
+}
 .close-btn-icon {
    transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
   fill: #2e2f42;
@@ -661,7 +664,7 @@ img {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-size: 12px;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
   display: block;
@@ -677,6 +680,7 @@ img {
   height: 40px;
   padding-left: 38px;
   outline: transparent;
+  background-color: transparent;
 }
 .modal-form-input:focus {
   border: 1px solid #4d5ae5;
