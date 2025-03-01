@@ -546,11 +546,10 @@ img {
 .footer-input:focus {
   border: 1px solid #31d0aa;
 }
-.form {
-  margin-left: auto;
-}
+
 .footer-form {
   display: flex;
+  margin-left: auto;
 }
 .form-btn {
   font-family: 'Roboto', sans-serif;
