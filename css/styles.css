@@ -663,6 +663,9 @@ img {
 .modal-container-block {
   margin-bottom: 8px;
 }
+.modal-form-cont-checkbox{
+  margin-bottom: 24px;
+}
 .modal-form-label {
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
